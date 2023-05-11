@@ -1,10 +1,3 @@
-# Pink Pandas
-- @ Jant Chan
-- @ Zhiyan Hu
-- @ Han Li
-- @ Jiewen Li
-- @ Jingyi You
-- @ Kevin Zheng
 # Patient List Manager - A Collaborative Working Flow Web Application in Health Service
 
 Patient List Manager is an online collaborative web application in the field of digital health helping to improve the experiences of daily workflows for healthcare staff working in hospital. 
