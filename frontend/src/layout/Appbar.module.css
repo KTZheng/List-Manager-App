@@ -1,0 +1,13 @@
+.appBarContainer, .toolbar{
+    flex-grow: 1;
+}
+
+.isActive{
+    background-color: lightcyan;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.inActive{
+    color:gray;
+    text-decoration: none;
+}
